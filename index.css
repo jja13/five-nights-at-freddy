@@ -1,0 +1,46 @@
+h1{
+  color:red;
+  text-align:center;
+  font-family: Courier New;
+}
+div{
+  height:100%;
+  width:90%;
+ background-color:black;
+  opacity: 0.8;
+  border: 1px solid gray;
+  margin:auto;
+  margin-top:200px;
+}
+
+h2{
+  color:red;
+  text-align:center;
+  font-family: Courier New;
+}
+img{
+  height:500px;
+
+}
+a{
+  text-align:center;
+}
+h3{
+  color:white;
+  line-height:27px;
+  font-family: Courier New;
+}
+footer{
+  position: fixed;
+  bottom: 0; 
+  left: 0;
+  background-color:red;
+  color:white;  
+  
+}
+body{
+ background-image: url('https://vignette.wikia.nocookie.net/five-nights-at-freddys-rus/images/5/5f/Thank_you_scott.jpg/revision/latest/scale-to-width-down/672?cb=20150828071123&path-prefix=ru');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
